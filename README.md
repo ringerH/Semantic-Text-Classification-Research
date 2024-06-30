@@ -3,6 +3,9 @@
 # Introduction
 Welcome to the repository for the research internship project on "Semantic Text Classification for Document Organization." In this project, we aim to develop a text classification system using Natural Language Processing (NLP) techniques to efficiently organize unstructured text data into meaningful and contextually relevant categories. This README file will provide an overview of the project, its objectives, benefits, constraints, and success criteria.
 
+[Report](https://drive.google.com/file/d/1vuxa9qEozJmSd-DK-D8KLdo1ZnSxFWtv/view)
+
+
 # Problem Statement
 In today's era of digital information overload, effectively organizing and categorizing large volumes of unstructured text data is a fundamental challenge. This academic internship project seeks to address this challenge by developing a text classification system capable of semantically categorizing various documents or text snippets into meaningful and contextually relevant categories. The project will explore the potential of NLP and text classification techniques to streamline the organization of textual data.
 
